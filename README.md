@@ -10,7 +10,7 @@ Tek sayfalık kurumsal tanıtım sitesi. Statik HTML, build adımı yok.
 `index.html` içinde `const CONTACT = {...}` bloğu – tek yer.
 
 ## Yayın
-Depo Netlify/Vercel'e bağlı; `main` dalına push → otomatik yayın. Build command boş, publish directory `/`.
+Depo Netlify/Vercel'e bağlı; `main` dalına push → otomatik yayın. Build command boş, publish directory `.` (depo kökü). Netlify yayın dizini `netlify.toml` içinde tanımlıdır; `Deploy` klasörü gerekmez.
 
 ## Yapılacaklar (yayından önce)
 - [ ] Impressum sayfası
