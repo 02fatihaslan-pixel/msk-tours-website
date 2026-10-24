@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemap.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://msktours.com/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://msktours.com/img/hero-bus-lake.jpg</image:loc><image:title>MSK Tours Reisebus Mercedes-Benz Tourismo</image:title></image:image>
+    <image:image><image:loc>https://msktours.com/img/paris-arc.jpg</image:loc><image:title>MSK Tours Reisebus in Paris</image:title></image:image>
+    <image:image><image:loc>https://msktours.com/img/interior.jpg</image:loc><image:title>Innenraum Reisebus MSK Tours</image:title></image:image>
+  </url>
+</urlset>
