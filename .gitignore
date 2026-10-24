@@ -1,0 +1,11 @@
+# Paylaşım için üretilen gömülü sürüm (build-embed.py ile yeniden üretilir)
+msktours-onizleme.html
+
+# Orijinal WhatsApp fotoğrafları depoya girmez
+WhatsApp Image*.jpeg
+*.jpeg
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+desktop.ini
